@@ -43,9 +43,20 @@ Ponadto w repozytorium zostały umieszczone zadania, które uczniowie realizują
 ## Spis zadań/lekcji:
 
 1. [Wprowadzenie do elektroniki (prawo Ohma + dobór rezystancji)](https://github.com/Arillos/Arduino/tree/main/1.%20Wprowadzenie%20do%20elektroniki%20(dob%C3%B3r%20rezystancji)).
-2. Instalacja i konfiguracja Arduino IDE - pierwszy program Blink.
-3. ...
-
-
+2. Proste układy elektroniczne (bramka AND i OR).
+3. Instalacja i konfiguracja Arduino IDE - pierwszy program Blink.
+4. Monitor portu szeregowego.
+5. Układy wejścia/wyjścia (diody LED, przyciski oraz potencjometry).
+6. Podstawowe elementy pomiarowe (czujnik temperatury, temperatury i wigotności DHT-11).
+7. Podstawowe elementy wykonawcze (serwomechanizm, wyświetlacz LCD).
+8. Buzzer a głośnik.
+9. Czujnik odległości oraz czujnik ruchu.
+10. Rezystancyjny czujnik światła.
+11. Klawiatura membranowa.
+12. Wyświetlacz LED 8x8.
+13. Zasada działania diody RGB + pierścień RGB.
+14. Cyfrowy czujnik dźwięku.
+15. Projket inteligentnego budynku.
+16. Projekt pojedyńczego przejazdu kolejowego.
 
 > ** Uwaga: ** Większość ćwiczeń można przetestować w darmowym symulatorze Arduino [Tinker Cad](https://www.tinkercad.com/learn/circuits).
