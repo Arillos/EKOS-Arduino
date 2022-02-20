@@ -42,7 +42,7 @@ Ponadto w repozytorium zostały umieszczone zadania, które uczniowie realizują
 
 ## Spis zadań/lekcji:
 
-1. Wprowadzenie do elektroniki (prawo Ohma + dobór rezystancji).
+1. [Wprowadzenie do elektroniki (prawo Ohma + dobór rezystancji)](https://github.com/Arillos/Arduino/tree/main/1.%20Wprowadzenie%20do%20elektroniki%20(dob%C3%B3r%20rezystancji)).
 2. Instalacja i konfiguracja Arduino IDE - pierwszy program Blink.
 3. ...
 
