@@ -1,11 +1,12 @@
 # Nauka programowania z wykorzystaniem zestawów Arduino
 
 Repozytoirum zostało przygotowane dla uczniów liceum ogólnokształconcego z oddziałami dwujęzycznymi fundacji EKOS w Swarzędzu.
-Repozytoprium składa się ze schematów połączenia elementów wykonawczych i pomiarowych z Arduino oraz podstawowych programów umożliwiających sprawdzenie poprawność połączenia.
+Repozytoprium zawiera schematy połączenia elementów wykonawczych i pomiarowych z Arduino oraz podstawowe programy umożliwiające sprawdzenie poprawności ich połączenia.
 Ponadto w rezpozytorium zostały umieszczone zadania, które uczniowe realizują na zajęciach z Informatyki.
 
-Ćwiczenia zostały przygotowane na podstawie kursu [Forbot](https://forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290)
+Ćwiczenia zostały przygotowane na podstawie kursu [Forbot](https://forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290).
 
+----------
 
 ## Spis elementów wchodzących w skład zestawu:
 [Zestaw ćwiczeniowy](https://github.com/Arillos/Arduino/blob/main/Spis%20zawarto%C5%9Bci%20zestaw%C3%B3w.pdf) składa się z 29 elementów:
@@ -47,4 +48,4 @@ Ponadto w rezpozytorium zostały umieszczone zadania, które uczniowe realizują
 
 
 
-
+> ** Uwaga: ** Większość ćwiczeń można przetestować w darmowym symulatorze Arduino [Tinker Cad](https://www.tinkercad.com/learn/circuits).
