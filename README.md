@@ -8,7 +8,7 @@ Ponadto w rezpozytorium zostały umieszczone zadania, które uczniowe realizują
 
 
 ## Spis elementów wchodzących w skład zestawu:
-Zestaw ćwiczeniowy składa się z 29 elementów:
+[Zestaw ćwiczeniowy](https://github.com/Arillos/Arduino/blob/main/Spis%20zawarto%C5%9Bci%20zestaw%C3%B3w.pdf) składa się z 29 elementów:
 1. Arduino UNO + obudowa typu Slim.
 2. Przewód zasilający do Arduino (USB A - B).
 3. Płytka stykowa.
