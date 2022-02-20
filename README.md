@@ -1,4 +1,4 @@
-# Nauka programowania z wykorzystaniem zestawów Arduino
+# Nauka programowania z Arduino
 
 Repozytoirum zostało przygotowane dla uczniów liceum ogólnokształconcego z oddziałami dwujęzycznymi fundacji EKOS w Swarzędzu.
 Repozytoprium zawiera schematy połączenia elementów wykonawczych i pomiarowych z Arduino oraz podstawowe programy umożliwiające sprawdzenie poprawności ich połączenia.
