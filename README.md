@@ -15,7 +15,7 @@ Ponadto w repozytorium zostały umieszczone zadania, które uczniowie realizują
 3. [Monitor portu szeregowego](https://github.com/Arillos/Arduino-EKOS-/tree/main/3.%20Monitor%20portu%20szeregowego).
 4. [Układy wejścia/wyjścia (diody LED, przyciski oraz potencjometry)](https://github.com/Arillos/Arduino-EKOS-/tree/main/4.%20Uk%C5%82ady%20wej%C5%9Bcia%2C%20wyj%C5%9Bcia%20(diody%20LED%2C%20przyciski%20oraz%20potencjometry)).
 5. Proste układy elektroniczne (bramka AND i OR).
-6. Podstawowe elementy pomiarowe (czujnik temperatury, temperatury i wigotności DHT-11).
+6. [Podstawowe elementy pomiarowe (czujnik temperatury, temperatury i wigotności DHT-11)](https://github.com/Arillos/Arduino-EKOS-/tree/main/6.%20Podstawowe%20elementy%20pomiarowe%20(czujnik%20temperatury%2C%20temperatury%20i%20wigotno%C5%9Bci%20DHT-11)).
 7. Podstawowe elementy wykonawcze (serwomechanizm, wyświetlacz LCD).
 8. Buzzer a głośnik.
 9. Czujnik odległości oraz czujnik ruchu.
