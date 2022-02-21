@@ -9,15 +9,15 @@ Przed przystąpieniem do zajęć warto zapoznać się z informacjami zawartymi w
 4. Implementacja pierwszego programu o nazwie Blink.
 
 ## Zadanie:
-1. Zainstaluj środowisko Arduino IDE zgodnie wg [poradnika](https://forbot.pl/blog/kurs-arduino-srodowisko-jak-zaczac-programowac-id936) kursu Forbot.
+1. Zainstaluj środowisko Arduino IDE zgodnie wg [poradnika kursu Forbot](https://forbot.pl/blog/kurs-arduino-srodowisko-jak-zaczac-programowac-id936).
 2. Umieść w folderze libraries (ścieżkę dostępu poda nauczyciel) wszystkie biblioteki z folderu [!Biblioteki Arduino](https://github.com/Arillos/Arduino/tree/main/!Biblioteki%20Arduino).
 3. Podłącz Arduino do komputera za pośednictwem przewodu USB A-B.
-4. Podłącz czerwoną diodę LED do PINU 2.
-5. Zweryfikuj i wgraj pierwszy program [Blink]().
-6. Zmodyfikuj program z punktu 5. aby zasygnalizować diodą LED sygnał S.O.S.
+4. Podłącz czerwoną diodę LED do PINU 2 wg poniższego [schematu](https://github.com/Arillos/Arduino/blob/main/2.%20Instalacja%20i%20konfiguracja%20Arduino%20IDE%20-%20pierwszy%20program%20Blink/Schemat%20BlinkLED.JPG).
+5. Zweryfikuj i wgraj pierwszy program [Blink](https://github.com/Arillos/Arduino/blob/main/2.%20Instalacja%20i%20konfiguracja%20Arduino%20IDE%20-%20pierwszy%20program%20Blink/Blink.ino).
+6. **Zmodyfikuj program z punktu 5. aby zasygnalizować diodą LED sygnał S.O.S.**
 
 ## Schemat połączenia:
-
+![Schemat not found](https://github.com/Arillos/Arduino/blob/main/2.%20Instalacja%20i%20konfiguracja%20Arduino%20IDE%20-%20pierwszy%20program%20Blink/Schemat%20BlinkLED.JPG)
 
 ## Kod programu:
 ```c++
@@ -51,4 +51,4 @@ void loop()
 
 
 ## Rezultat:
-Zrealizowany  skrypt prześlij na: ariel_antonowicz@ekos.edu.pl
+Zrealizowany skrypt wysyłający sygnał S.O.S. prześlij na: ariel_antonowicz@ekos.edu.pl
