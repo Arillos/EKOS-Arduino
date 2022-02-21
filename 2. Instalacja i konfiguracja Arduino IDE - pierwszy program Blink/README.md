@@ -12,7 +12,7 @@ Przed przystąpieniem do zajęć warto zapoznać się z informacjami zawartymi w
 1. Zainstaluj środowisko Arduino IDE wg [poradnika kursu Forbot](https://forbot.pl/blog/kurs-arduino-srodowisko-jak-zaczac-programowac-id936).
 2. Umieść w folderze libraries (ścieżkę dostępu poda nauczyciel) wszystkie biblioteki z folderu [!Biblioteki Arduino](https://github.com/Arillos/Arduino/tree/main/!Biblioteki%20Arduino).
 3. Podłącz Arduino do komputera za pośednictwem przewodu USB A-B.
-4. Podłącz czerwoną diodę LED do PINU 2 wg poniższego [schematu](https://github.com/Arillos/Arduino/blob/main/2.%20Instalacja%20i%20konfiguracja%20Arduino%20IDE%20-%20pierwszy%20program%20Blink/Schemat%20BlinkLED.JPG).
+4. Podłącz czerwoną diodę LED (wraz z rezystorem) do PINU 2 wg poniższego [schematu](https://github.com/Arillos/Arduino/blob/main/2.%20Instalacja%20i%20konfiguracja%20Arduino%20IDE%20-%20pierwszy%20program%20Blink/Schemat%20BlinkLED.JPG).
 5. Zweryfikuj i wgraj pierwszy program [Blink](https://github.com/Arillos/Arduino/blob/main/2.%20Instalacja%20i%20konfiguracja%20Arduino%20IDE%20-%20pierwszy%20program%20Blink/Blink.ino).
 6. **Zmodyfikuj program z punktu 5. aby zasygnalizować diodą LED sygnał S.O.S.**
 
