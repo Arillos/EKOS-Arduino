@@ -20,8 +20,7 @@ Przed przystąpieniem do zajęć warto zapoznać się z informacjami zawartymi w
 
 
 ## Kod programu:
-'''
-
+```c++
 // W funkcji SETUP umieszczamy wszystkie informacje początkowe
 // niezbędne do uruchomienia programu np. czy dany PIN w Arduino
 // (np. PIN 2) ma być traktowany jako WEJŚCIE (INPUT), czy WYJŚCIE
@@ -47,8 +46,9 @@ void loop()
   //Odczekujemy 1 sekundę (1000 milisekund)
   delay(1000);  
 }
-'''
+
+```
 
 
-##. Rezultat:
+## Rezultat:
 Zrealizowany  skrypt prześlij na: ariel_antonowicz@ekos.edu.pl
