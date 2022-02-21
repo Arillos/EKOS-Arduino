@@ -1,0 +1,1 @@
+Wersje bibliotek używanych w zadaniach
