@@ -24,4 +24,8 @@ Przed przystąpieniem do zajęć warto zapoznać się z informacjami zawartymi w
 
 Schemat podłączenia przedstawiony został na poniższym rysunku:
 
-![alt text](https://github.com/Arillos/Arduino/blob/main/1.%20Wprowadzenie%20do%20elektroniki%20(dob%C3%B3r%20rezystancji)/1.%20Pod%C5%82%C4%85czenie%20diody%20do%20Arduino.JPG)
+![Schemat not found](https://github.com/Arillos/Arduino/blob/main/1.%20Wprowadzenie%20do%20elektroniki%20(dob%C3%B3r%20rezystancji)/Dob%C3%B3r%20rezystancji.JPG)
+
+## Rezultat:
+
+Obliczone wartości rezystancji dla przedstawionych przykładów wyślij na: ariel_antonowicz@ekos.edu.pl
