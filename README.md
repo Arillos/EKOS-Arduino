@@ -11,8 +11,8 @@ Ponadto w repozytorium zostały umieszczone zadania, które uczniowie realizują
 ## Spis zadań/lekcji:
 
 1. [Wprowadzenie do elektroniki (prawo Ohma + dobór rezystancji)](https://github.com/Arillos/Arduino/tree/main/1.%20Wprowadzenie%20do%20elektroniki%20(dob%C3%B3r%20rezystancji)).
-2. Proste układy elektroniczne (bramka AND i OR).
-3. Instalacja i konfiguracja Arduino IDE - pierwszy program Blink.
+2. Instalacja i konfiguracja Arduino IDE - pierwszy program Blink.
+3. Proste układy elektroniczne (bramka AND i OR).
 4. Monitor portu szeregowego.
 5. Układy wejścia/wyjścia (diody LED, przyciski oraz potencjometry).
 6. Podstawowe elementy pomiarowe (czujnik temperatury, temperatury i wigotności DHT-11).
