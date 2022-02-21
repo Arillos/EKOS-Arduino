@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c27bede5-c06b-479b-ac63-4586cdc54b67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Arduino.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Proste układy elektroniczne (bramka AND i OR)/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. Proste układy elektroniczne (bramka AND i OR)/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/3. Monitor portu szeregowego/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Monitor portu szeregowego/MPS_-_odbieranie1.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Monitor portu szeregowego/MPS_-_odbieranie2.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Monitor portu szeregowego/MPS_-_wysyłanie.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Monitor portu szeregowego/instrukcje_warunkowe.ino" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +28,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ariel\PycharmProjects\Arduino\3. Monitor portu szeregowego" />
       <recent name="C:\Users\ariel\PycharmProjects\Arduino\2. Instalacja i konfiguracja Arduino IDE - pierwszy program Blink" />
       <recent name="C:\Users\ariel\PycharmProjects\Arduino\1. Wprowadzenie do elektroniki (dobór rezystancji)" />
     </key>
@@ -60,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1645427393897</updated>
-      <workItem from="1645427403289" duration="3021000" />
+      <workItem from="1645427403289" duration="4343000" />
     </task>
     <task id="LOCAL-00001" summary="Add schematic">
       <created>1645427564423</created>
@@ -118,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645433563146</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update: 21.02.22">
+      <created>1645434672507</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1645434672507</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,22 +129,23 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add schematic" />
     <MESSAGE value="Add new  files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new  files" />
+    <MESSAGE value="Update: 21.02.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: 21.02.22" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="10" key="CommitChangelistDialog2" timestamp="1645433562590">
+    <state x="393" y="10" key="CommitChangelistDialog2" timestamp="1645434671772">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="10" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1645433562590" />
+    <state x="393" y="10" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1645434671772" />
     <state x="393" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1645381559061" />
     <state x="147" y="71" key="DiffContextDialog" timestamp="1645381486696">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="71" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1645381486696" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1645433565960">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1645434674018">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1645433565960" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1645434674018" />
     <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1645381561569" />
   </component>
 </project>
