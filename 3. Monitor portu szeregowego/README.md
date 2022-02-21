@@ -13,10 +13,10 @@ Przed przystąpieniem do zajęć warto zapoznać się z informacjami zawartymi w
 ## Zadanie:
 1. Podłącz Arduino do komputera za pośrednictwem przewodu USB A-B i uruchom program Arduino IDE.
 2. Omów z nauczycielem rolę zmiennych w programowaniu oraz ich typy.
-3. Zweryfikuj, wgraj i omów z nauczycielem działanie programu [Monitor Portu Szeregowego - wysyłanie]().
-4. Zweryfikuj, wgraj i omów z nauczycielm działanie programu [Monitor Portu Szeregowego - obieranie sposób 1]().
-5. Zweryfikuj, wgraj i omów z nauczycielm działanie programu [Monitor Portu Szeregowego - obieranie sposób 2]().
-6. Zweryfikuj, wgraj i omów z nauczycielem działanie programu [Instrukcje Warunkowe]().
+3. Zweryfikuj, wgraj i omów z nauczycielem działanie programu [Monitor Portu Szeregowego - wysyłanie](https://github.com/Arillos/Arduino-EKOS-/blob/main/3.%20Monitor%20portu%20szeregowego/MPS_-_wysy%C5%82anie.ino).
+4. Zweryfikuj, wgraj i omów z nauczycielm działanie programu [Monitor Portu Szeregowego - obieranie sposób 1](https://github.com/Arillos/Arduino-EKOS-/blob/main/3.%20Monitor%20portu%20szeregowego/MPS_-_odbieranie1.ino).
+5. Zweryfikuj, wgraj i omów z nauczycielm działanie programu [Monitor Portu Szeregowego - obieranie sposób 2](https://github.com/Arillos/Arduino-EKOS-/blob/main/3.%20Monitor%20portu%20szeregowego/MPS_-_odbieranie2.ino).
+6. Zweryfikuj, wgraj i omów z nauczycielem działanie programu [Instrukcje Warunkowe](https://github.com/Arillos/Arduino-EKOS-/blob/main/3.%20Monitor%20portu%20szeregowego/instrukcje_warunkowe.ino).
 7. **Zmodyfikuj program z punktu 6. w taki sposób aby weryfikować login i hasło**.
 
 > **Uruchomienie MPS: W programie Arduino IDE: Narzędzia / Monitor Portu Szeregowego Shift + Ctrl + M**
