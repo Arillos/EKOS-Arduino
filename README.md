@@ -21,13 +21,13 @@ Poniższe materiały stanowią jedynie materiały pomocniczne potrzebne do reali
 7. [Podstawowe elementy wykonawcze (serwomechanizm, wyświetlacz LCD)](https://github.com/Arillos/Arduino-EKOS-/tree/main/7.%20Podstawowe%20elementy%20wykonawcze%20(serwomechanizm%2C%20wy%C5%9Bwietlacz%20LCD)).
 8. [Buzzer i głośnik](https://github.com/Arillos/Arduino-EKOS-/tree/main/8.%20Buzzer%20i%20g%C5%82o%C5%9Bnik).
 9. [Czujnik odległości oraz czujnik ruchu](https://github.com/Arillos/Arduino-EKOS-/tree/main/9.%20Czujnik%20odleg%C5%82o%C5%9Bci%20oraz%20czujnik%20ruchu).
-10. Rezystancyjny czujnik światła.
-11. Klawiatura membranowa.
-12. Wyświetlacz LED 8x8.
-13. Zasada działania diody RGB + pierścień RGB.
-14. Cyfrowy czujnik dźwięku.
-15. Projket inteligentnego budynku.
-16. Projekt pojedyńczego przejazdu kolejowego.
+10. [Rezystancyjny czujnik światła + kontaktron](https://github.com/Arillos/Arduino-EKOS-/tree/main/10.%20Rezystancyjny%20czujnik%20%C5%9Bwiat%C5%82a).
+12. Klawiatura membranowa.
+13. Wyświetlacz LED 8x8.
+14. Zasada działania diody RGB + pierścień RGB.
+15. Cyfrowy czujnik dźwięku.
+16. Projket inteligentnego budynku.
+17. Projekt pojedyńczego przejazdu kolejowego.
 
 ## Spis elementów wchodzących w skład zestawu:
 [Zestaw ćwiczeniowy](https://github.com/Arillos/Arduino/blob/main/Spis%20zawarto%C5%9Bci%20zestaw%C3%B3w.pdf) składa się z 29 elementów:
