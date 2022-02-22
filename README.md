@@ -25,7 +25,7 @@ Poniższe materiały stanowią jedynie materiały pomocniczne potrzebne do reali
 11. [Klawiatura membranowa](https://github.com/Arillos/Arduino-EKOS-/tree/main/11.%20Klawiatura%20membranowa).
 12. [Wyświetlacz LED 8x8](https://github.com/Arillos/Arduino-EKOS-/tree/main/12.%20Wy%C5%9Bwietlacz%20LED%208x8).
 13. [Zasada działania diody RGB + pierścień RGB](https://github.com/Arillos/Arduino-EKOS-/tree/main/13.%20Zasada%20dzia%C5%82ania%20diody%20RGB%20%2B%20pier%C5%9Bcie%C5%84%20RGB).
-14. Cyfrowy czujnik dźwięku.
+14. [Cyfrowy czujnik dźwięku](https://github.com/Arillos/Arduino-EKOS-/tree/main/14.%20Cyfrowy%20czujnik%20d%C5%BAwi%C4%99ku).
 15. Moduł podczerwieni (+ pilot).
 16. Czujnik dymu i łatwopalnych gazów MQ-2.
 17. Projket inteligentnego budynku.
