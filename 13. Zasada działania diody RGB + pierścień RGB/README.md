@@ -18,6 +18,8 @@ Przed przystąpieniem do zajęć warto zapoznać się z informacjami zawartymi w
   - **( IN )** oznacza sygnał wejściowy (np. PIN 2);
   - **( GND )** oznacza masę układu (GND).
 
+![Schemat not found](https://github.com/Arillos/Arduino-EKOS-/blob/main/13.%20Zasada%20dzia%C5%82ania%20diody%20RGB%20%2B%20pier%C5%9Bcie%C5%84%20RGB/neopixel.JPG)
+
 
 ## Skrypt - pierścień LED RGB:
 ```c++

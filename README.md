@@ -24,11 +24,13 @@ Poniższe materiały stanowią jedynie materiały pomocniczne potrzebne do reali
 10. [Rezystancyjny czujnik światła + kontaktron](https://github.com/Arillos/Arduino-EKOS-/tree/main/10.%20Rezystancyjny%20czujnik%20%C5%9Bwiat%C5%82a).
 11. [Klawiatura membranowa](https://github.com/Arillos/Arduino-EKOS-/tree/main/11.%20Klawiatura%20membranowa).
 12. [Wyświetlacz LED 8x8](https://github.com/Arillos/Arduino-EKOS-/tree/main/12.%20Wy%C5%9Bwietlacz%20LED%208x8).
-13. Zasada działania diody RGB + pierścień RGB.
+13. [Zasada działania diody RGB + pierścień RGB](https://github.com/Arillos/Arduino-EKOS-/tree/main/13.%20Zasada%20dzia%C5%82ania%20diody%20RGB%20%2B%20pier%C5%9Bcie%C5%84%20RGB).
 14. Cyfrowy czujnik dźwięku.
-15. Projket inteligentnego budynku.
-16. Projekt pojedyńczego przejazdu kolejowego.
-17. Dowolne projekty grupowe.
+15. Moduł podczerwieni (+ pilot).
+16. Czujnik dymu i łatwopalnych gazów MQ-2.
+17. Projket inteligentnego budynku.
+18. Projekt pojedyńczego przejazdu kolejowego.
+19. Dowolne projekty grupowe.
 
 ## Spis elementów wchodzących w skład zestawu:
 [Zestaw ćwiczeniowy](https://github.com/Arillos/Arduino/blob/main/Spis%20zawarto%C5%9Bci%20zestaw%C3%B3w.pdf) składa się z 29 elementów:
