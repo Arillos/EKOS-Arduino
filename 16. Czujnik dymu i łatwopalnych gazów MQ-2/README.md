@@ -15,7 +15,7 @@
   
 
 ## Skrypt - czujnik dymu i gazów łatwopalnych MQ-2:
-
+```c++
 /*
 Progi detekcji: 
 
