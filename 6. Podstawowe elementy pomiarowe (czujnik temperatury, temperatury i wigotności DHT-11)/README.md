@@ -31,6 +31,7 @@ Przed przystąpieniem do zajęć warto zapoznać się z informacjami zawartymi w
   - **( CZARNY )** oznacza masę układu (GND).
   
   **UWAGA** W przypadku czujnika DS18B20 przewód czerwony oraz żólty trzeba połączyć rezystorem 4.7k Ohm. Wizualizacja podłączenia została przedstawiona poniżej:
+  ![Schemat not found](https://github.com/Arillos/Arduino-EKOS-/blob/main/6.%20Podstawowe%20elementy%20pomiarowe%20(czujnik%20temperatury%2C%20temperatury%20i%20wigotno%C5%9Bci%20DHT-11)/ds18b20.JPG)
   
 
 
