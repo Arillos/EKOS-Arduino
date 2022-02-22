@@ -8,7 +8,8 @@ Przed przystąpieniem do zajęć warto zapoznać się z informacjami zawartymi w
 ## Cel zajęć:
 1. Omówienie podstawowych elementów pomiarowych.
 2. Omówienie zjawiska występowania błędów pomiarowych oraz sposoby ich niwelowania.
-3. Zbudowanie trzech prostych układów i implementacja skryptów odczytujących temperaturę i wilgotność względną RH.
+3. Wprowadzenie do pętli (pętla for i while).
+4. Zbudowanie trzech prostych układów i implementacja skryptów odczytujących temperaturę i wilgotność względną RH.
 
 ## Zadanie:
 1. Podłącz Arduino do komputera za pośrednictwem przewodu USB A-B i uruchom program Arduino IDE.
