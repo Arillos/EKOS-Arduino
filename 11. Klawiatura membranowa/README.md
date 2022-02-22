@@ -16,7 +16,7 @@ Przed przystąpieniem do zajęć warto zapoznać się z informacjami zawartymi w
 
 ## Sposób podłączenia klawiatury membranowej:
 
-![Schemat not found]()
+![Schemat not found](https://github.com/Arillos/Arduino-EKOS-/blob/main/11.%20Klawiatura%20membranowa/klawiatura_schemat.JPG)
 
 
 ## Skrypt - klawiatura membranowa:
