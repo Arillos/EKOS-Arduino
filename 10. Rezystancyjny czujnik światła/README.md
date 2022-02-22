@@ -19,7 +19,7 @@ Przed przystąpieniem do zajęć warto zapoznać się z informacjami zawartymi w
   - **( PIN 1 )** wyjście cyfrowe (np. PIN 2);
   - **( PIN 2 )** masa układu (GND).
   
-2. Serwomechanizm:
+2. Rezystancyjny czujnik światła:
   - **( A0 )** oznacza wyjście analogowe (np. A5);
   - **( D0 )** oznacza wyjście cyfrowe (np. 3);
   - **( VCC )** oznacza zasilanie VCC 5V;
