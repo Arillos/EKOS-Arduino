@@ -22,7 +22,7 @@ Poniższe materiały stanowią jedynie materiały pomocniczne potrzebne do reali
 8. [Buzzer i głośnik](https://github.com/Arillos/Arduino-EKOS-/tree/main/8.%20Buzzer%20i%20g%C5%82o%C5%9Bnik).
 9. [Czujnik odległości oraz czujnik ruchu](https://github.com/Arillos/Arduino-EKOS-/tree/main/9.%20Czujnik%20odleg%C5%82o%C5%9Bci%20oraz%20czujnik%20ruchu).
 10. [Rezystancyjny czujnik światła + kontaktron](https://github.com/Arillos/Arduino-EKOS-/tree/main/10.%20Rezystancyjny%20czujnik%20%C5%9Bwiat%C5%82a).
-12. Klawiatura membranowa.
+12. [Klawiatura membranowa](https://github.com/Arillos/Arduino-EKOS-/tree/main/11.%20Klawiatura%20membranowa).
 13. Wyświetlacz LED 8x8.
 14. Zasada działania diody RGB + pierścień RGB.
 15. Cyfrowy czujnik dźwięku.
