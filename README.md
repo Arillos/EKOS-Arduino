@@ -14,9 +14,9 @@ Ponadto w repozytorium zostały umieszczone zadania, które uczniowie realizują
 2. [Instalacja i konfiguracja Arduino IDE - pierwszy program Blink](https://github.com/Arillos/Arduino/tree/main/2.%20Instalacja%20i%20konfiguracja%20Arduino%20IDE%20-%20pierwszy%20program%20Blink).
 3. [Monitor portu szeregowego](https://github.com/Arillos/Arduino-EKOS-/tree/main/3.%20Monitor%20portu%20szeregowego).
 4. [Układy wejścia/wyjścia (diody LED, przyciski oraz potencjometry)](https://github.com/Arillos/Arduino-EKOS-/tree/main/4.%20Uk%C5%82ady%20wej%C5%9Bcia%2C%20wyj%C5%9Bcia%20(diody%20LED%2C%20przyciski%20oraz%20potencjometry)).
-5. Proste układy elektroniczne (bramka AND i OR).
+5. [Proste układy elektroniczne (bramka AND i OR)](https://github.com/Arillos/Arduino-EKOS-/tree/main/5.%20Proste%20uk%C5%82ady%20elektroniczne%20(bramka%20AND%20i%20OR)).
 6. [Podstawowe elementy pomiarowe (czujnik temperatury, temperatury i wigotności DHT-11)](https://github.com/Arillos/Arduino-EKOS-/tree/main/6.%20Podstawowe%20elementy%20pomiarowe%20(czujnik%20temperatury%2C%20temperatury%20i%20wigotno%C5%9Bci%20DHT-11)).
-7. Podstawowe elementy wykonawcze (serwomechanizm, wyświetlacz LCD).
+7. [Podstawowe elementy wykonawcze (serwomechanizm, wyświetlacz LCD)](https://github.com/Arillos/Arduino-EKOS-/tree/main/7.%20Podstawowe%20elementy%20wykonawcze%20(serwomechanizm%2C%20wy%C5%9Bwietlacz%20LCD)).
 8. Buzzer a głośnik.
 9. Czujnik odległości oraz czujnik ruchu.
 10. Rezystancyjny czujnik światła.
