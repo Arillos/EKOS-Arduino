@@ -13,12 +13,26 @@ Przed przystąpieniem do zajęć warto zapoznać się z informacjami zawartymi w
 ## Zadanie:
 1. Podłącz Arduino do komputera za pośrednictwem przewodu USB A-B i uruchom program Arduino IDE.
 2. Omów z nauczycielem zasadę działania cyfrowych i analogowych czujników temperatury.
-3. Zbuduj prosty [schemat przedstawiony poniżej]().
+3. Zbuduj prosty układ wg informacji podanych poniżej.
 4. Napisz program, który naprzemiennie odczytuje temperaturę ze wszystkich czujników. Oblicz średnią z 12 pomiarów i określ różnicę między czujnikami.
 
-## Schemat połączenia:
+## Sposób podłączenia elementów:
+1. Czujnik DHT-11:
+  - **( + )** oznacza zasilanie VCC 5V;
+  - **( OUT )** oznacza CYFROWY PIN sygnałowy (np. PIN 2);
+  - **( - )** oznacza masę układu (GND).
+2. Czujnik LM35:
+  - **( VCC )** oznacza zasilanie VCC 5V;
+  - **( OUT )** oznacza ANALOGOWY PIN sygnałowy (np. PIN A5);
+  - **( GND )** oznacza masę układu (GND).
+3. Czujnik DS18B20 (sonda wodoodporna):
+  - **( CZERWONY )** oznacza zasilanie VCC 5V;
+  - **( ŻÓLTY )** oznacza CYFROWY PIN sygnałowy (np. PIN 2);
+  - **( CZARNY )** oznacza masę układu (GND).
+  
+  **UWAGA** W przypadku czujnika DS18B20 przewód czerwony oraz żólty trzeba połączyć rezystorem 4.7k Ohm. Wizualizacja podłączenia została przedstawiona poniżej:
+  
 
-![Schemat not found]()
 
 ## Skrypt - czujnik temperatury DHT-11:
 ```c++
@@ -49,29 +63,22 @@ void loop()
 ```
 ## Skrypt - czujnik temperatury LM35:
 ```c++
-#include "DHT.h"
-#define DHT11_PIN 2
-DHT dht;
-
-void setup()
-{
+#define LM35 A5
+ 
+void setup(){
   Serial.begin(9600);
-  dht.setup(DHT11_PIN);
 }
+ 
+void loop(){
+  //Przeliczenie odczytu ADC na temperaturę zgodnie z opisem z kursu
+  float temperatura = ((analogRead(LM35) * 5.0) / 1024.0) * 100;
 
-void loop()
-{
-  //Pobranie informacji o wilgotnosci
-  int wilgotnosc = dht.getHumidity();
-  Serial.print(wilgotnosc);
-  Serial.print("%RH | ");
-  
-  //Pobranie informacji o temperaturze
-  int temperatura = dht.getTemperature();
+  //Wyslanie przez UART aktualnej temperatury
+  Serial.print("Aktualna temperatura: ");
   Serial.print(temperatura);
   Serial.println("*C");
 
-  delay(1000); //Odczekanie wymaganego czasu
+  delay(200);
 }
 ```
 ## Skrypt - czujnik temperatury DS18B20:
