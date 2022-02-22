@@ -17,7 +17,7 @@ Ponadto w repozytorium zostały umieszczone zadania, które uczniowie realizują
 5. [Proste układy elektroniczne (bramka AND i OR)](https://github.com/Arillos/Arduino-EKOS-/tree/main/5.%20Proste%20uk%C5%82ady%20elektroniczne%20(bramka%20AND%20i%20OR)).
 6. [Podstawowe elementy pomiarowe (czujnik temperatury, temperatury i wigotności DHT-11)](https://github.com/Arillos/Arduino-EKOS-/tree/main/6.%20Podstawowe%20elementy%20pomiarowe%20(czujnik%20temperatury%2C%20temperatury%20i%20wigotno%C5%9Bci%20DHT-11)).
 7. [Podstawowe elementy wykonawcze (serwomechanizm, wyświetlacz LCD)](https://github.com/Arillos/Arduino-EKOS-/tree/main/7.%20Podstawowe%20elementy%20wykonawcze%20(serwomechanizm%2C%20wy%C5%9Bwietlacz%20LCD)).
-8. Buzzer a głośnik.
+8. [Buzzer i głośnik](https://github.com/Arillos/Arduino-EKOS-/tree/main/8.%20Buzzer%20i%20g%C5%82o%C5%9Bnik).
 9. Czujnik odległości oraz czujnik ruchu.
 10. Rezystancyjny czujnik światła.
 11. Klawiatura membranowa.
