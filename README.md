@@ -28,6 +28,7 @@ Poniższe materiały stanowią jedynie materiały pomocniczne potrzebne do reali
 14. Cyfrowy czujnik dźwięku.
 15. Projket inteligentnego budynku.
 16. Projekt pojedyńczego przejazdu kolejowego.
+17. Dowolne projekty grupowe.
 
 ## Spis elementów wchodzących w skład zestawu:
 [Zestaw ćwiczeniowy](https://github.com/Arillos/Arduino/blob/main/Spis%20zawarto%C5%9Bci%20zestaw%C3%B3w.pdf) składa się z 29 elementów:
