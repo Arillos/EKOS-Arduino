@@ -6,7 +6,7 @@ Przed przystąpieniem do zajęć warto zapoznać się z informacjami zawartymi w
 - kurs Forbot [kontaktron](https://forbot.pl/blog/kurs-arduino-ii-przerwania-kontaktron-czujnik-pir-id16792).
 
 ## Cel zajęć:
-1. Omówienie dzaiłania kontaktronu oraz fotorezystoru.
+1. Omówienie działania kontaktronu oraz fotorezystoru.
 2. Realizacja algorytmu "Inteligente oświetlenie".
 
 ## Zadanie:
