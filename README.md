@@ -6,6 +6,8 @@ Ponadto w repozytorium zostały umieszczone zadania, które uczniowie realizują
 
 Ćwiczenia zostały przygotowane na podstawie kursu [Forbot](https://forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290).
 
+Poniższe materiały stanowią jedynie materiały pomocniczne potrzebne do realizacji zajęć z Informatyki.
+
 ----------
 
 ## Spis zadań/lekcji:
