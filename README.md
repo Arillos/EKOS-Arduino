@@ -26,7 +26,7 @@ Poniższe materiały stanowią jedynie materiały pomocniczne potrzebne do reali
 12. [Wyświetlacz LED 8x8](https://github.com/Arillos/Arduino-EKOS-/tree/main/12.%20Wy%C5%9Bwietlacz%20LED%208x8).
 13. [Zasada działania diody RGB + pierścień RGB](https://github.com/Arillos/Arduino-EKOS-/tree/main/13.%20Zasada%20dzia%C5%82ania%20diody%20RGB%20%2B%20pier%C5%9Bcie%C5%84%20RGB).
 14. [Cyfrowy czujnik dźwięku](https://github.com/Arillos/Arduino-EKOS-/tree/main/14.%20Cyfrowy%20czujnik%20d%C5%BAwi%C4%99ku).
-15. Moduł podczerwieni (+ pilot).
+15. [Moduł podczerwieni (+ pilot)](https://github.com/Arillos/Arduino-EKOS-/tree/main/15.%20Modu%C5%82%20podczerwieni%20(%2B%20pilot)).
 16. [Czujnik dymu i łatwopalnych gazów MQ-2](https://github.com/Arillos/Arduino-EKOS-/blob/main/16.%20Czujnik%20dymu%20i%20%C5%82atwopalnych%20gaz%C3%B3w%20MQ-2/README.md).
 17. Projket inteligentnego budynku.
 18. Projekt pojedyńczego przejazdu kolejowego.
