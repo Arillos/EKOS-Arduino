@@ -15,7 +15,7 @@
   - **( CLK )** SPI CLOCK (PIN 10;
 
 
-## Skrypt - wyświetlacz pierścnienowy LED RGB:
+## Skrypt - wyświetlacz LED 8x8:
 ```c++
 #include "LedControl.h"
 
