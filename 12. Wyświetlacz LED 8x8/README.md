@@ -15,7 +15,7 @@
   - **( CLK )** SPI CLOCK (PIN 10;
 
 
-## Skrypt - kontaktron:
+## Skrypt - wyświetlacz pierścnienowy LED RGB:
 ```c++
 #include "LedControl.h"
 
