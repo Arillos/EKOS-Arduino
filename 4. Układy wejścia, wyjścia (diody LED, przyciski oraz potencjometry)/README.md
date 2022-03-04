@@ -34,7 +34,7 @@ Przed przystąpieniem do zajęć warto zapoznać się z informacjami zawartymi w
 void setup()
 {
   pinMode(13, OUTPUT);  // Dioda LED
-  pinMode(6, INPUT_PULLUP);  // Przycisk z fizycznym rezystorem podciągającym
+  pinMode(7, INPUT_PULLUP);  // Przycisk z fizycznym rezystorem podciągającym
 }
 
 
